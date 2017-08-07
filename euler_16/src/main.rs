@@ -18,7 +18,7 @@ fn main() {
     // let mut sum: BigUint = BigUint::from_i32(0).unwrap();
     //in loop while d > 0
     //mod 10, add remainder to sum
-    //shift right one digit
+    //shift right one digitcd n
     let mut sum: BigUint = Zero::zero();
     while &d > &zero {
         sum = sum + (&d % &ten);
