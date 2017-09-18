@@ -1,0 +1,6 @@
+[package]
+name = "euler_45"
+version = "0.1.0"
+authors = ["RT Hatfield <arthur_hatfield@homedepot.com>"]
+
+[dependencies]
